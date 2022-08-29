@@ -1,0 +1,53 @@
+
+
+"""
+安全帽
+
+"""
+
+"""
+login_req:
+    {
+        "act": "ca_login",
+        "device_id": "866652020842507"
+    }
+
+ca_report_location:
+
+    {
+        "CD4":"",
+        "act":"ca_report_location",
+        "bat_l":"51",
+        "bat_v":"3704",
+        "body_info":"",
+        "body_simple_info":"",
+        "bt_signal_info":"",
+        "c_accuracy":"38.0",
+        "c_speed":"0.06",
+        "c_startcount":"0",
+        "c_trust":"1",
+        "charging":"1",
+        "gas_data":"",
+        "gps":"2",
+        "gps_level":"-1",
+        "in_use":"1",
+        "is_weared":"1",
+        "net_strenth":"4",
+        "net_type":"2",
+        "notuploaded_video_count":"4",
+        "online_type":"2",
+        "oxygen_data":"",
+        "phoneNumber":"89860465011984594135",
+        "rail_status":"0",
+        "record_switch":"false",
+        "sim_data_num":"0",
+        "sim_status":"2",
+        "tcard_status":"2",
+        "tempdata":"mtktsbattery--25000;mtktscpu--49000;mtktspa---127000;mtktspmic--42365;mtktswmt--42000;mtktsAP--40000;mtktsbtsmdpa--38600;mtkts1--48100;mtkts2--49000;",
+        "user_id":"666",
+        "x_point":"34.824052",
+        "y_point":"113.564389"
+    }
+
+
+"""

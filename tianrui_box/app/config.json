@@ -1,0 +1,16 @@
+{
+    "mqtt":{
+        "host":"192.168.240.228",
+        "port":1883,
+        "user":"client",
+        "pass":""
+    },
+    "ftp":{
+        "host":"192.168.220.142",
+        "port":21,
+        "user":"admin",
+        "pass":"123456"
+    },
+    "sdk_path":"/home/aaa",
+    "ver":"3.0"
+}
